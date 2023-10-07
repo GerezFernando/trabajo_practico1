@@ -63,7 +63,7 @@ span{
 #img-fondo {
   height: 100%;
   max-width: 100%;
-  background-image: url(../img/fondo/ba1.jpg);
+  background-image: url(./img/fondo/ba1.jpg);
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
